@@ -1,0 +1,14 @@
+{
+  "name": "ideaapp",
+  "version": "1.0.0",
+  "description": "An Idea App which was created during the workshop contained by PW Skills. The functionality of this web-app is that person can do CRUD operations in their Ideas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jay",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
